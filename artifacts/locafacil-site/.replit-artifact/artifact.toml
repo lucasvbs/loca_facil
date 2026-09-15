@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Loca Fácil — Locação de Máquinas"
+description = "Landing page comercial da Loca Fácil para locação de escavadeiras, retroescavadeiras e caminhões no DF e entorno, com atendimento direto via WhatsApp."
+version = "1.0.0"
+id = "artifacts/locafacil-site"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 24138
+
+[services.development]
+run = "pnpm --filter @workspace/locafacil-site run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/locafacil-site", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/locafacil-site/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "24138"
+BASE_PATH = "/"

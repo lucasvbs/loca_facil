@@ -1,0 +1,111 @@
+COPY LP — LOCA FÁCIL (Locação de Máquinas Pesadas)
+
+1. HEADLINE PRINCIPAL
+
+Variação A — ângulo de agilidade: "Sua obra não pode esperar. A máquina chega rápido."
+Variação B — ângulo de confiabilidade: "Máquina pesada com frota própria, sem enrolação."
+Variação C — ângulo de dor (locadora grande): "Cansado de esperar locadora grande te atender?"
+
+2. SUBHEADLINE
+
+Escavadeira, retroescavadeira e caminhão caçamba prontos pra sua obra no DF e entorno. Frota própria, atendimento direto, sem intermediário.
+
+3. ABERTURA / PROPOSTA DE VALOR
+
+Obra parada por falta de máquina é prejuízo todo dia que passa. Diária de equipe parada, prazo de entrega estourando, cliente cobrando.
+
+A LOCA FÁCIL resolve isso com frota própria de escavadeira, retroescavadeira e caminhão caçamba/basculante — pronta pra locação com ou sem operador, no seu prazo.
+
+Você fala direto com quem decide. Sem central de atendimento, sem espera de dias por resposta.
+
+4. CTA PRIMÁRIO (acima da dobra)
+
+Botão A (ação direta): "Chamar no WhatsApp"
+micro-copy: Resposta rápida • Sem compromisso
+Botão B (benefício): "Pedir orçamento agora"
+micro-copy: Atendimento direto com Anderson
+
+5. IDENTIFICAÇÃO DA DOR
+
+Quem toca obra sabe: máquina parada é dinheiro escorrendo.
+
+Você já perdeu prazo de entrega esperando locadora responder?
+Já pagou caro numa locadora grande e ainda esperou dias pela máquina chegar?
+Já ficou na dúvida se o equipamento aguentava o serviço até quebrar no meio da obra?
+Já teve que negociar com três empresas diferentes até achar quem tinha a máquina disponível?
+Aquela sensação de que o cronograma da obra depende de gente que nem atende o telefone direito?
+
+6. APRESENTAÇÃO DA SOLUÇÃO
+
+A LOCA FÁCIL trabalha com frota própria — não terceiriza, não depende de repasse. Isso significa: máquina disponível de verdade, sem enrolação de "vamos verificar e te retornamos".
+
+É atendimento direto com quem toca a operação: você fala, alinha o prazo e o equipamento e o operador (se precisar) seguem pra obra.
+
+7. BENEFÍCIOS (não features)
+
+Frota própria → você não fica na mão esperando terceiro liberar máquina
+Atendimento direto → resposta rápida, sem central de atendimento genérica
+Locação sob medida → você paga pelo que precisa, não por pacote fechado que não serve
+Escavadeira, retroescavadeira e caminhão caçamba → resolve terraplanagem, escavação e transporte de entulho/material sem precisar contratar três fornecedores
+Locação com ou sem operador → flexibilidade pra sua equipe ou operador já qualificado
+Cobertura DF e entorno → obra na sua região sem depender de locadora de fora
+
+8. PROVA SOCIAL
+
+[INSERIR NÚMERO — anos de mercado ou quantidade de obras atendidas]
+[INSERIR DEPOIMENTO — foco em resultado numérico, ex: obra que não parou / prazo cumprido]
+[INSERIR DEPOIMENTO 2 — foco em agilidade de atendimento]
+
+(Sem esses dados ainda — sinalizado nas notas técnicas abaixo.)
+
+9. OFERTA (modo serviço)
+
+Como funciona:
+
+Você manda a necessidade no WhatsApp (tipo de serviço, prazo, local da obra)
+A LOCA FÁCIL monta o orçamento sob medida — sem tabela fechada, porque cada obra tem uma demanda
+Alinhado o valor e o prazo, a máquina (e operador, se for o caso) segue pra obra
+
+Investimento sob consulta, calculado por equipamento, prazo e tipo de serviço. Sem letra miúda.
+
+10. QUEBRA DE OBJEÇÕES
+
+Mas eu não sei quanto vai custar antes de falar com vocês... Por isso o orçamento é feito na hora, pelo WhatsApp — sem enrolação, sem esperar dias por retorno.
+E se a máquina quebrar no meio da obra? Frota própria significa manutenção sob nosso controle — não é terceiro que a gente nem sabe o estado.
+Vocês têm disponibilidade pro meu prazo? Fala direto com a gente pelo WhatsApp e a gente confirma a agenda na hora — sem intermediário pra travar a resposta.
+O frete até minha obra não vai encarecer demais? Isso entra no orçamento sob medida, calculado junto com o serviço — sem custo escondido depois.
+Como sei que são confiáveis? Atendimento direto, sem central terceirizada — você fala com quem decide, do início ao fim da locação.
+
+11. GARANTIA
+
+Escopo alinhado antes de a máquina sair — você sabe exatamente o que está contratando, por quanto tempo e por qual valor, antes de fechar. Sem letra miúda no meio do serviço.
+
+12. URGÊNCIA / ESCASSEZ
+
+[SINALIZADO — não há escassez real informada. Sugestão legítima: "Agenda de máquinas por semana" — se a frota tem limite de equipamentos disponíveis simultaneamente, isso pode virar urgência real. Confirmar com o cliente antes de usar.]
+
+13. FAQ
+
+Preciso de operador ou vocês fornecem?
+Vocês atendem em que regiões do DF e entorno?
+Quanto tempo demora entre o pedido e a máquina chegar na obra?
+Dá pra locar por poucos dias ou só contrato mais longo?
+Como funciona o pagamento — à vista, parcelado?
+E se eu precisar estender o prazo de locação no meio da obra?
+
+14. CTA FINAL
+
+Obra não espera. Frota própria, resposta rápida, orçamento sob medida — fala agora com a LOCA FÁCIL e resolve a máquina hoje.
+
+[Chamar no WhatsApp (61) 9 9985-3838]
+
+15. PS / FECHAMENTO
+
+PS: Cada dia de obra parada por falta de máquina é prejuízo que não volta. Com frota própria e atendimento direto, a LOCA FÁCIL resolve rápido — manda uma mensagem agora e já recebe o orçamento pra sua necessidade.
+
+NOTAS TÉCNICAS
+LGPD — se o formulário de contato (se houver, além do WhatsApp) coletar dado, incluir checkbox de consentimento + link pra política de privacidade.
+Claims — nenhum número ou depoimento foi inventado (bloco 8 ficou com placeholder). Antes de publicar, o Anderson precisa levantar: tempo de mercado, quantidade de obras/clientes atendidos e pelo menos 1-2 depoimentos reais.
+Tracking — Pixel da Meta + GA4 no evento de clique dos botões de WhatsApp; usar link wa.me com ?utm_source=lp&utm_medium=whatsapp pra rastrear origem do lead como evento de Lead.
+Estrutura da página — above the fold: headline + subheadline + CTA primário (bloco 1-4). CTA repetido no mínimo 3x: topo, meio (após benefícios/prova social) e final (bloco 14). Bloco 8 (prova social) só entra no ar depois que o Anderson mandar os depoimentos reais — não publicar com placeholder visível pro visitante.
+Pendência crítica antes de publicar — objeções reais do dono do negócio não foram levantadas (ele respondeu "não sei" no briefing); as 5 usadas no bloco 10 são as mais comuns do nicho de locação de máquinas, mas o ideal é confirmar com o Anderson quais realmente aparecem na negociação, pra ajustar se precisar.
